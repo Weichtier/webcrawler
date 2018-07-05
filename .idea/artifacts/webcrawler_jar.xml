@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="webcrawler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/webcrawler_jar</output-path>
+    <root id="archive" name="webcrawler.jar">
+      <element id="module-output" name="webcrawler" />
+      <element id="extracted-dir" path="D:/Downloads/jsoup-1.11.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
